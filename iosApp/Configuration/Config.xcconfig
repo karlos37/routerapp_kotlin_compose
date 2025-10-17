@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=routerapp_kotlin_compose
+PRODUCT_BUNDLE_IDENTIFIER=com.karlos.routerapp_kotlin_compose.routerapp_kotlin_compose$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
